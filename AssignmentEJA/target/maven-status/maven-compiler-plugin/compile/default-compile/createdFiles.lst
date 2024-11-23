@@ -1,0 +1,17 @@
+entities\RoomKey.class
+endpoints\ChatEndpoint.class
+servlets\LoginServlet.class
+beans\MessageDecoder.class
+beans\CreateChatBean.class
+servlets\ConversationsServlet.class
+servlets\HomeServlet.class
+servlets\RegistrationServlet.class
+beans\RegistrationBean.class
+beans\LoginBean.class
+beans\MessageBean.class
+beans\MessageEncoder.class
+entities\Message.class
+entities\User.class
+com\mycompany\assignmenteja\resources\JakartaEE10Resource.class
+com\mycompany\assignmenteja\JakartaRestConfiguration.class
+servlets\ChatServlet.class
